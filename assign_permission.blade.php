@@ -91,46 +91,46 @@ table.blueTable tfoot .links a{
         <tr>
         <td>Admin</td>
         <td>Form</td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="create" data-role="Admin"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="read" data-role="Admin"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="update" data-role="Admin"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="delete" data-role="Admin"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="print" data-role="Admin"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="export" data-role="Admin"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="approve" data-role="Admin"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="create" data-role="Admin"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="read" data-role="Admin"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="update" data-role="Admin"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="delete" data-role="Admin"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="print" data-role="Admin"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="export" data-role="Admin"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="approve" data-role="Admin"><br></td>
         </tr>
         <tr>
         <td>Manager</td>
         <td>Form</td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="create" data-role="Manager"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="read" data-role="Manager"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="update" data-role="Manager"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="delete" data-role="Manager"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="print" data-role="Manager"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="export" data-role="Manager"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="approve" data-role="Manager"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="create" data-role="Manager"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="read" data-role="Manager"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="update" data-role="Manager"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="delete" data-role="Manager"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="print" data-role="Manager"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="export" data-role="Manager"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="approve" data-role="Manager"><br></td>
         </tr>
         <tr>
         <td>Officer</td>
         <td>Form</td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="create" data-role="Officer"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="read" data-role="Officer"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="update" data-role="Officer"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="delete" data-role="Officer"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="print" data-role="Officer"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="export" data-role="Officer"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="approve" data-role="Officer"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="create" data-role="Officer"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="read" data-role="Officer"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="update" data-role="Officer"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="delete" data-role="Officer"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="print" data-role="Officer"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="export" data-role="Officer"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="approve" data-role="Officer"><br></td>
         </tr>
         <tr>
         <td>Teacher</td>
         <td>Form</td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="create" data-role="Teacher"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="read" data-role="Teacher"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="update" data-role="Teacher"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="delete" data-role="Teacher"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="print" data-role="Teacher"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="export" data-role="Teacher"><br></td>
-        <td class="text-center"><input type="checkbox" class="role-permission" data-key="approve" data-role="Teacher"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="create" data-role="Teacher"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="read" data-role="Teacher"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="update" data-role="Teacher"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="delete" data-role="Teacher"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="print" data-role="Teacher"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="export" data-role="Teacher"><br></td>
+        <td class="text-center"><input type="checkbox" class="role-permission" data-page="form" data-key="approve" data-role="Teacher"><br></td>
         </tr>
         </tbody>
     </table>
@@ -142,6 +142,7 @@ table.blueTable tfoot .links a{
         $(document).ready(function(){
             $(document).on('click', '.role-permission', function(){
                 var roleName = $(this).attr('data-role');
+                var page = $(this).attr('data-page');
                 var key = $(this).attr('data-key');
                 var val = 0;
                 if($(this).is(':checked')){ val = 1; }
@@ -152,6 +153,7 @@ table.blueTable tfoot .links a{
                     data: {
                         "_token": "{{ csrf_token() }}",
                         role: roleName,
+                        page: page,
                         key: key,
                         value: val
                     },
